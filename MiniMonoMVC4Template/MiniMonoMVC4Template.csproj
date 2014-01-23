@@ -64,6 +64,7 @@
   </ItemGroup>
   <ItemGroup>
     <Content Include="Configuration\MacOSX.conf" />
+    <Content Include="Configuration\MacOSX_httpd.conf" />
     <None Include="Properties\PublishProfiles\defaultProfile.pubxml" />
   </ItemGroup>
   <PropertyGroup>
